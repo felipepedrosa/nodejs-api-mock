@@ -6,7 +6,7 @@ Simple application used to mock APIs
 
 - Clone this repo
 - Create a file named `routes.js` (Use the example file `routes.json.example`)
-- Start project using `yarn/npm start` or `node server.js`;
+- Start project using `yarn/npm start` or `node src/server.js`;
 
 ## Roadmap
 
