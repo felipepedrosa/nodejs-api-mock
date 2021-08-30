@@ -1,0 +1,19 @@
+[
+  {
+    "url": "/api/v1/person",
+    "methods": [
+      {
+        "type": "get",
+        "responseDelay": 0,
+        "headers": [],
+        "responseBody": {}
+      },
+      {
+        "type": "post",
+        "responseDelay": 0,
+        "headers": [],
+        "responseBody": {}
+      }
+    ]
+  }
+]
