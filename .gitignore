@@ -1,4 +1,3 @@
-routes.json
 # Created by https://www.toptal.com/developers/gitignore/api/node,visualstudio,yarn
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,visualstudio,yarn
 
@@ -530,3 +529,6 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/node,visualstudio,yarn
+
+routes.json
+*.lock
