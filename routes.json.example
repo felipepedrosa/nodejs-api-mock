@@ -5,13 +5,13 @@
       {
         "type": "get",
         "responseDelay": 0,
-        "headers": [],
+        "responseHeaders": [],
         "responseBody": {}
       },
       {
         "type": "post",
         "responseDelay": 0,
-        "headers": [],
+        "responseHeaders": [],
         "responseBody": {}
       }
     ]
